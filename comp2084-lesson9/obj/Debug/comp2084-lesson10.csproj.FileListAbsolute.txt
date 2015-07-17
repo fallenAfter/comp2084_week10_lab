@@ -1,0 +1,10 @@
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\comp2084-lesson5.dll.config
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\comp2084-lesson5.dll
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\comp2084-lesson5.pdb
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\EntityFramework.dll
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\EntityFramework.SqlServer.dll
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\EntityFramework.xml
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\bin\EntityFramework.SqlServer.xml
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\obj\Debug\comp2084-lesson10.csprojResolveAssemblyReference.cache
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\obj\Debug\comp2084-lesson5.dll
+G:\SSS\week9\comp2084-lesson9\comp2084-lesson9\obj\Debug\comp2084-lesson5.pdb
